@@ -1,5 +1,3 @@
 # Tutorial-Sep
-Learning to use
-I am ammending the Readme to better understand how to use Github.  This is first branch of this repository
-The first ammendments have been merged.  Now trying with this set.  
+You should have a ReadMe file at your repository. It should provide some documentation about your project, and some help for new developers on how to get by. It's very common to write ReadMe in Markdown format. GitHub and other services well render this Markdown to nice HTML, as you can see here. The first lines of the ReadMe should be an elevator pitch for your project. It should explain in short terms what your project is about. Usually after that comes uses, examples and more documentation. At the end we usually have some data for developers on how to get started hacking on the project. ReadMe is important, don't skip it and make sure it's updated.
 
